@@ -1,3 +1,3 @@
 # form-text-extraction
-This small script allows you to extract specific parts of documents. 
-As such it is ideally sutited to automate repetitive text extraction from forms in various formats.
+These small scripts allows you to extract specific parts of documents. 
+One script extracts specific fields, the other specific regular expressions.
